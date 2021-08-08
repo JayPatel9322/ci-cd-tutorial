@@ -2,10 +2,10 @@
 * Application Name:- HTTPCalloutFramework
 * License:- BSD 3-Clause "New" or "Revised" License
 * Created:- 27/11/2019
-* Last Updated:- 05/04/2020
+* Last Updated:- 20/04/2020
 * Description:- This is the service class for performing HTTP Callouts
 * Contributors:-
-*    1. Rahul Malhotra
+*    1. Jay Patel
 */
 public class HTTPCalloutService {
 
